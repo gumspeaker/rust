@@ -1,7 +1,6 @@
-// This declaration will look for a file named `my.rs` and will
-// insert its contents inside a module named `my` under this scope
 mod sloution;
 
 fn main() {
-    sloution::num_of_burgers()
+    let res: Vec<i32> = sloution::_1276::num_of_burgers(10, 30);
+    // s1;
 }
